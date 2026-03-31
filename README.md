@@ -497,9 +497,9 @@ docker compose logs -f celery_worker
 
 ## 📞 Contact
 
-- **Email**: info@cctvanalytics.example
-- **Twitter**: @cctvanalytics
-- **Website**: https://www.cctvanalytics.example
+- **Email**: ubaidawan244@gmail.com
+- **Twitter**: @insightcamai
+- **Website**: https://www.insightcamai.com
 
 ---
 
