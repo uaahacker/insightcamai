@@ -506,3 +506,7 @@ docker compose logs -f celery_worker
 **Built with** ❤️ using Django, React, YOLOv8, and modern web technologies.
 
 Made for retail shops, parking facilities, warehouses, malls, clinics, schools, and any organization needing intelligent video analytics.
+
+---
+
+Portfolio project by Ubaid Ullah. For professional Django, SaaS, AI automation, API, dashboard, and cloud deployment work, visit [Djangix](https://djangix.com/).
